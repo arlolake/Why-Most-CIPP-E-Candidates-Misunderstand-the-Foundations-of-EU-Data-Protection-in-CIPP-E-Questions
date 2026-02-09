@@ -64,8 +64,6 @@
 
 <h2 data-end="5879" data-start="5819" style="text-align: justify;"><span style="font-family:Comic Sans MS,cursive;"><strong>Ready to Master Real CIPP-E Questions with Confidence?</strong></span></h2>
 
-<p data-end="5951" data-start="5881" style="text-align: justify;">Using the <strong data-end="5921" data-start="5891">AIDA copywriting framework</strong>, here&rsquo;s your next smart move:</p>
-
 <ul>
 	<li style="text-align: justify;"><strong data-end="5967" data-start="5953">Attention:</strong> If CIPP-E Questions feel tricky despite hours of study, the problem is not your effort, it&rsquo;s your approach.</li>
 	<li style="text-align: justify;"><strong data-end="6090" data-start="6077">Interest:</strong> High-quality practice questions expose how foundations are <em data-end="6167" data-start="6150">actually tested</em> in the exam.</li>
